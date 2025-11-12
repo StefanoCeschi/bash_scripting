@@ -1,4 +1,7 @@
-## Funzioni
+# Funzioni
+
+[🏠 Home page](./../readme.md)
+
 Come per molti linguaggi, anche in bash sono presenti le funzioni (aka metodi / sottoprogrammi).
 <br>
 Riprendendo il programma che calcola se un numero fosse pari o dispari (vedi `002_expr_test.md`):
@@ -72,3 +75,5 @@ resto=$(expr $1 % 2)
 test ${resto} -eq 0 && echo "Pari"
 test ${resto} -ne 0 && echo "Dispari"
 ```
+
+[🏠 Home page](./../readme.md)

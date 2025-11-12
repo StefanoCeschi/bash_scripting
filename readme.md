@@ -6,4 +6,6 @@
 - Comando "expr" e "test" [002_expr_test](./Capitolo_0/002_expr_test.md)
 
 ### Capitolo 1
-- Funzioni [100_func](./Capitolo_0/100_func.md)
+- Funzioni [100_func](./Capitolo_1/100_func.md)
+- If statement [101_if_statement](./Capitolo_1/101_if_statement.md)
+- Loops (while, for) [102_loops](./Capitolo_1/102_loops.md)

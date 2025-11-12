@@ -1,4 +1,6 @@
-# Lezione 1 / basi
+# Le basi
+
+[🏠 Home page](./../readme.md)
 
 ## Creazione script
 Gli script bash hanno l'estensione `.sh` e devono avere il seguente header:
@@ -93,3 +95,4 @@ echo "Benvenuto, $name"
 $ echo "Ste" | ./redir.sh
 > Benvenuto, Ste
 ```
+[🏠 Home page](./../readme.md)

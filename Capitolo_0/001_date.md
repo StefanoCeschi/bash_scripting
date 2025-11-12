@@ -1,4 +1,6 @@
-# Lezione 1 / Date
+# Date
+
+[🏠 Home page](./../readme.md)
 
 ## Basi
 Questo semplice script calcola l'età dell'utente:

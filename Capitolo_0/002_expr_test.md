@@ -1,4 +1,7 @@
-## Il comando expr
+# Il comando expr
+
+[🏠 Home page](./../readme.md)
+
 Questo comando serve per calcolare espressioni matematiche, visto che non è possibile eseguirle direttamente in shell.
 
 ```bash
@@ -72,3 +75,4 @@ $ ./evenOdd.sh
 $ ./evenOdd.sh sasso
 > Use: ./evenOdd.sh <number>
 ```
+[🏠 Home page](./../readme.md)
