@@ -45,6 +45,5 @@ for arg in $@; do
         echo evenOdd $arg
     fi
 done
-```
 
 [🏠 Home page](./../readme.md)
