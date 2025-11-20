@@ -11,4 +11,4 @@
 - Loops (while, for): [TEORIA](./Capitolo_1/102_loops.md)
 - Case: [TEORIA](./Capitolo_1/103_case.md)
 - Esercizio completo con loop e case: [ESEMPIO COMPLETO](./Capitolo_1/104_ex_loop_case.md)
-- Stringhe: [ESEMPIO COMPLETO](./Capitolo_1/105_string.md)
+- Stringhe: [TEORIA](./Capitolo_1/105_string.md)
