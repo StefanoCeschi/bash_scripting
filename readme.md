@@ -1,4 +1,4 @@
-# Bash Scripting 🐚
+# 🐚 Bash Scripting
 
 > Una raccolta semplice e ordinata di teoria, esempi ed esercizi per imparare o ripassare lo scripting in Bash.
 
