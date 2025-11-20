@@ -45,5 +45,16 @@ for arg in $@; do
         echo evenOdd $arg
     fi
 done
+```
+
+### Ciclare input da tastiera o da file
+```bash
+while read line; do
+    case $line in
+        [[:digit:]]*)
+            echo $line;;
+    esac
+done
+```
 
 [🏠 Home page](./../readme.md)
