@@ -20,6 +20,9 @@ Questo repository offre un percorso chiaro per capire e utilizzare Bash in modo 
 - Esercizio completo con loop e case: [ESEMPIO COMPLETO](./Capitolo_1/104_ex_loop_case.md)
 - Stringhe: [TEORIA](./Capitolo_1/105_string.md)
 
+### Capitolo 2
+ - Regex: [TEORIA](./Capitolo_2/200_regex.md)
+
 ## 🤝 Contributi
 
 Suggerimenti e miglioramenti sono benvenuti: apri una issue o invia una pull request.
