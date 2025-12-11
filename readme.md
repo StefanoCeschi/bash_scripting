@@ -8,20 +8,21 @@ Questo repository offre un percorso chiaro per capire e utilizzare Bash in modo 
 ## 📂 Struttura
 
 ### Capitolo 0
-- Le basi: [TEORIA](./Capitolo_0/000_basi.md)
-- Date: [TEORIA](./Capitolo_0/001_date.md)
-- Comando `expr` e `test` [TEORIA](./Capitolo_0/002_expr_test.md)
+- Le basi: [000_TEORIA](./Capitolo_0/000_basi.md)
+- Date: [001_TEORIA](./Capitolo_0/001_date.md)
+- Comando `expr` e `test` [002_TEORIA](./Capitolo_0/002_expr_test.md)
 
 ### Capitolo 1
-- Funzioni: [TEORIA](./Capitolo_1/100_func.md)
-- If statement: [TEORIA](./Capitolo_1/101_if_statement.md)
-- Loops (while, for): [TEORIA](./Capitolo_1/102_loops.md)
-- Case: [TEORIA](./Capitolo_1/103_case.md)
-- Esercizio completo con loop e case: [ESEMPIO COMPLETO](./Capitolo_1/104_ex_loop_case.md)
-- Stringhe: [TEORIA](./Capitolo_1/105_string.md)
+- Funzioni: [100_TEORIA](./Capitolo_1/100_func.md)
+- If statement: [101_TEORIA](./Capitolo_1/101_if_statement.md)
+- Loops (while, for): [102_TEORIA](./Capitolo_1/102_loops.md)
+- Case: [103_TEORIA](./Capitolo_1/103_case.md)
+- Esercizio completo con loop e case [da 000 a 103]: [104_ESEMPIO COMPLETO](./Capitolo_1/104_ex_loop_case.md)
+- Stringhe: [105_TEORIA](./Capitolo_1/105_string.md)
 
 ### Capitolo 2
- - Regex: [TEORIA](./Capitolo_2/200_regex.md)
+ - Regex: [200_TEORIA](./Capitolo_2/200_regex.md)
+ - Comando `sed`: [201_TEORIA](./Capitolo_2/201_sed.md)
 
 ## 🤝 Contributi
 
